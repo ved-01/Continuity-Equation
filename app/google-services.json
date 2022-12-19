@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "736181694702",
+    "project_id": "continuity-equation",
+    "storage_bucket": "continuity-equation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736181694702:android:b5e715e0e157c4927ec3ff",
+        "android_client_info": {
+          "package_name": "com.example.continuityequation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736181694702-v3ap3a1mpbb570j9f7m88i0c21opfol6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJeoWocYMLAinjGlq-Q9Y7aYBALOyBlKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736181694702-v3ap3a1mpbb570j9f7m88i0c21opfol6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
